@@ -1,6 +1,7 @@
 ### Hi, I am Samruddhi 👋
 
-I am a Data Scientist. Also, AI & ML enthusiast.
+I am a Data Scientist. 
+Also, AI & ML enthusiast.
 I practice data analysis & DSA in my free time. 😀 
 
 - 💡 I'm 2024 pass out graduate with Bsc IT. I enjoy collaborating with people on works of similar interest.
