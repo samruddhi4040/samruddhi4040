@@ -1,6 +1,6 @@
 ### Hi, I am Samruddhi 👋
 
-I am a Data Scientist. 
+I am a Data Analyst. 
 Also, AI & ML enthusiast.
 I practice data analysis & visualization. 😀 
 
