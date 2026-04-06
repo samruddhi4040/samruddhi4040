@@ -1,9 +1,5 @@
 ### Hi, I am Samruddhi 👋
 
-I am a Data Analyst. 
-Also, AI & ML enthusiast.
-I practice data analysis & visualization. 😀 
+Data Analyst skilled in Python, SQL, and Advanced Excel with experience across 6+ projects and internships. Worked with 50K+ records, improving model accuracy to 95%+ and reducing manual effort by 40%+. Focused on delivering data-driven business insights.
 
-- 💡 I'm 2024 pass out graduate with Bsc IT. I enjoy collaborating with people on works of similar interest.
-- 💬 Feel free to approach me on my social handles. I am open for new worthy connections.
-- 📫 You can mail me your doubts and thoughts about my repos at: samruddhi4040@gmail.com
+📫 You can mail me your doubts and thoughts about my repos at: samruddhi4040@gmail.com
